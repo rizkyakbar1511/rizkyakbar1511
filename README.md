@@ -14,11 +14,9 @@ alt="rizkyakbar1511" /></a> </p>
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 💬 Ask me about **React, MERN**
+- 💬 Ask me about **Javascript, React, MERN**
 
 - 📫 How to reach me **rizkyakbar1511@gmail.com**
-
-- ⚡ Fun fact **I am**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
