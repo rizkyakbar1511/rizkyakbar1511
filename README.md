@@ -1,4 +1,4 @@
-![Header](https://res.cloudinary.com/dcuyktl8e/image/upload/v1693027389/github-header-image_puxvjk.png)
+<!--- ![Header](https://res.cloudinary.com/dcuyktl8e/image/upload/v1693027389/github-header-image_puxvjk.png) --->
 
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
